@@ -25,4 +25,3 @@ print(f"Nota final de {aluno} é {soma}")
 
 
 
-
