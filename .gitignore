@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller (quando você gerar o .exe)
+dist/
+build/
+*.spec
+
+# Configurações da IDE PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
